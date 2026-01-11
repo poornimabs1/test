@@ -1,6 +1,6 @@
 Health=input("how are you?")
 if Health =='good':
-    print('wonderfull!')
+    print('doing good')
     print('thank you')
 else:
     sick=input("are you sick")
