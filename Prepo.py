@@ -5,4 +5,5 @@ if Health =='good':
 else:
     sick=input("are you sick")
     if sick=='yes':
-      print('take care')
+       print('see doc')
+       print('take medicine')
