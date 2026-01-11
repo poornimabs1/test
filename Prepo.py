@@ -3,4 +3,6 @@ if Health =='good':
     print('wonderfull!')
     print('thank you')
 else:
-    print('take care')
+    sick=input("are you sick")
+    if sick=='yes':
+      print('take care')
