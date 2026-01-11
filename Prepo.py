@@ -1,5 +1,5 @@
 Health=input("how are you?")
-if Health =='fine':
-    print('woderfull !')
+if Health =='good':
+    print('woderfull!')
 else:
     print('take care')
